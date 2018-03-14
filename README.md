@@ -1,5 +1,8 @@
 # XEBIA
 
+execute avec maven : exec:java -Dexec.args="test.txt" 
+
+
 test.txt :
 5 5
 1 2 N
