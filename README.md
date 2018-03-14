@@ -1,6 +1,6 @@
 # XEBIA
 
-execute avec maven : exec:java -Dexec.args="test.txt" 
+execute avec maven : mvn exec:java -Dexec.args="test.txt" 
 
 
 test.txt :
