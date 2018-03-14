@@ -1,7 +1,6 @@
 # XEBIA
 
 test.txt :
-
 5 5
 1 2 N
 GAGAGAGAA
